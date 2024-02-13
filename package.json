@@ -1,0 +1,28 @@
+{
+  "name": "bem-psikologi-ui-fe",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@atlaskit/icon": "^21.10.7",
+    "@chakra-ui/react": "^2.1.2",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "axios": "^0.27.2",
+    "framer-motion": "^6.3.6",
+    "next": "12.1.6",
+    "next-seo": "^5.4.0",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "react-hook-form": "^7.31.3"
+  },
+  "devDependencies": {
+    "eslint": "8.16.0",
+    "eslint-config-next": "12.1.6"
+  }
+}
